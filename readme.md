@@ -3,5 +3,5 @@
 _Usage:_
 
 ```cmd
-npx degit <@git-name/rep-name> <directory name>
+npx degit MaccKOT/html-boilerplate <directory name>
 ```
